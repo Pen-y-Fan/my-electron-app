@@ -6,7 +6,7 @@ on [Electronjs - Building your First App](https://www.electronjs.org/docs/latest
 ## Project Overview
 
 - **Name**: `my-electron-app`
-- **Version**: `1.0.0`
+- **Version**: `0.0.1`
 - **Description**: My first Electron app.
 - **Author**: `Pen-y-Fan`
 - **Main file**: `main.js`
